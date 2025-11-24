@@ -1,12 +1,12 @@
 ## 🧭 Índice de Contenido
 
-### 1. [Primeros Proyectos](./Proyectos) 🏨
+### 1. [Primeros Proyecto: Base de Datos Hotel](./P1_BDHOTEL) 🏨
 
 *(Habilidades: Diseño de esquemas, Normalización y consultas complejas)*
 
-Aquí se encuentran los trabajos con un ciclo de vida completo. El código demuestra la capacidad de diseñar la arquitectura de la base de datos (Ej: **Base de Datos Hotel**).
+Diseño conceptual y físico de mi primera base de datos, sobre un hotel. 
 
-### 2. [Ejercicios Fundamentales DDL](./Ejercicios_DDL) 🔑
+### 2. [Ejercicios Fundamentales DDL](./01_SENTENCIAS_DDL 🔑
 
 *(Habilidades: Dominio de sentencias CREATE, ALTER, DROP)*
 
