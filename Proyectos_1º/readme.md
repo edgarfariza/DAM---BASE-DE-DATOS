@@ -1,6 +1,6 @@
 ## 🧭 Índice de Contenido
 
-### 1. [Primer Proyecto: Base de Datos Hotel](./P1_BDHOTEL) 🏨
+### 1. [Primer Proyecto: P01 | Diseño de Base de Datos para Gestión Hotelera (ERD & SQLite)](./P1_BDHOTEL) 🏨
 
 *(Habilidades: Diseño de esquemas, Normalización y consultas complejas)*
 
