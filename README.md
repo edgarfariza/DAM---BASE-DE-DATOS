@@ -1,9 +1,5 @@
-# 🚀 Portfolio Técnico Superior DAM (Desarrollo de Aplicaciones Multiplataforma)
-
-Soy un profesional en **transición de carrera** con el objetivo de convertirme en Desarrollador de Software. Este repositorio es un archivo vivo que documenta mi proceso de aprendizaje, desde la lógica fundamental hasta la implementación de proyectos completos.
-
-
----
+🚀Repositorio destinado a todo el conocimiento referente a Bases de Datos del Grado Superior en Desarrollo de Aplicación Multiplataforma. 
+--- 
 
 ## 🧭 Índice de Contenido (Las Asignaturas/Carpetas)
 
@@ -15,3 +11,5 @@ El trabajo está organizado por disciplinas principales, lo que facilita la revi
 
 * **Alcance:** Modelado Entidad-Relación, Normalización, y dominio de los comandos DDL/DML.
 * **Contenido:** Proyectos como el sistema de **Reservas de Hotel** y ejercicios fundamentales de definición de datos (`CREATE`, `ALTER`, `DROP`).
+
+
