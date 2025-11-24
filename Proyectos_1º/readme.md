@@ -6,7 +6,7 @@
 
 Diseño conceptual y físico de mi primera base de datos, sobre un hotel. 
 
-### 2. [Ejercicios Fundamentales DDL](./01_SENTENCIAS_DDL) 🔑
+### 2. [Ejercicios Fundamentales DDL](./01_Sentencias_DDL) 🔑
 
 *(Habilidades: Dominio de sentencias CREATE, ALTER, DROP)*
 
