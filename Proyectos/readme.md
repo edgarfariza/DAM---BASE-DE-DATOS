@@ -1,6 +1,3 @@
-
----
-
 ## 🧭 Índice de Contenido
 
 ### 1. [Proyectos y Modelado Avanzado](./Proyectos) 🏨
