@@ -1,4 +1,4 @@
-# 🚀 Portafolio Técnico Superior DAM (Desarrollo de Aplicaciones Multiplataforma)
+# 🚀 Portfolio Técnico Superior DAM (Desarrollo de Aplicaciones Multiplataforma)
 
 Soy un profesional en **transición de carrera** con el objetivo de convertirme en Desarrollador de Software. Este repositorio es un archivo vivo que documenta mi proceso de aprendizaje, desde la lógica fundamental hasta la implementación de proyectos completos.
 
