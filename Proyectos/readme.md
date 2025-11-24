@@ -1,18 +1,4 @@
 
-# 📚 Repositorio Principal: Bases de Datos y Gestión de la Información
-
-Este repositorio es el archivo completo de mi trabajo de **Modelado, Diseño y Gestión de Bases de Datos** realizado durante el Grado Superior DAM.
-
-El contenido está dividido en dos áreas clave para una navegación organizada.
-
----
-
-## 🛠️ Stack Tecnológico
-
-* **Lenguaje:** SQL (MySQL, SQLite).
-* **Conceptos:** DDL (Definición de Datos), DML (Manipulación de Datos), Modelado Entidad-Relación.
-* **Herramientas:** DB Browser for SQLite, MySQL Workbench.
-
 ---
 
 ## 🧭 Índice de Contenido (Las Carpetas Clave)
