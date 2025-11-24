@@ -4,7 +4,7 @@
 
 *(Habilidades: Diseño de esquemas, Normalización y consultas complejas)*
 
-Diseño conceptual y físico de mi primera base de datos, sobre un hotel. 
+Diseño conceptual y físico de mi primera base de datos, sobre un hotel. Diagrama Entidad-Relación con 10 entidades y creación de las tablas de entidades y las resultantes de las cardinalidades M:N.
 
 ### 2. [Ejercicios Fundamentales DDL](./01_Sentencias_DDL) 🔑
 
