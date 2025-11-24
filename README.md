@@ -9,7 +9,7 @@ Soy un profesional en **transición de carrera** con el objetivo de convertirme 
 
 El trabajo está organizado por disciplinas principales, lo que facilita la revisión de habilidades específicas.
 
-### 1. [Proyectos del curso](./Proyectos) 💾
+### 1. [Proyectos del primer curso](./Proyectos) 💾
 
 *(Carpeta principal para todo el trabajo con SQL)*
 
