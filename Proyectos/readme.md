@@ -17,14 +17,7 @@ Proyectos centrados en el **Diseño Conceptual, Lógico y Físico** de sistemas 
 * **Contenido:** Diagrama E/R (`ER-HOTEL.png`), implementación en SQLite (`BDHOTEL.db`) y documentación detallada.
 * **Habilidades:** Modelado de datos, Restricciones de Integridad y Normalización.
 
-### 2. [T1 - Ejercicios Fundamentales DDL (LaLiga)](./T1_SentenciasDDL/P1_DDL_LALIGA) 
-
-* **Descripción:** Práctica intensiva con el **Lenguaje de Definición de Datos (DDL)**. Creación, modificación (ALTER) y eliminación (DROP) de tablas y bases de datos.
-* **Contenido:** Script SQL completo con la secuencia de comandos.
-* **Habilidades:** `CREATE`, `ALTER`, `DROP` y manejo de estructuras de tablas.
-
+### 2. [T1 - Ejercicios Fundamentales DDL ]
 ---
 
-## 💻 Programación y Lógica (Java)
 
-*[Esta sección se actualizará una vez se suban los primeros ejercicios o proyectos en Java.]*
