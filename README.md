@@ -1,4 +1,4 @@
-🚀Repositorio destinado a todo el conocimiento referente a Bases de Datos del Grado Superior en Desarrollo de Aplicación Multiplataforma. 
+🚀Repositorio destinado a todo el contenido referente a Bases de Datos del Grado Superior en Desarrollo de Aplicación Multiplataforma. 
 --- 
 
 ## 🧭 Índice de Contenido (Las Asignaturas/Carpetas)
