@@ -1,6 +1,6 @@
 ## 🧭 Índice de Contenido
 
-### 1. [Proyectos y Modelado Avanzado](./Proyectos) 🏨
+### 1. [Primeros proyectos](./Proyectos) 🏨
 
 *(Habilidades: Diseño de esquemas, Normalización y consultas complejas)*
 
